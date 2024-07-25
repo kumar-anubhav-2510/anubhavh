@@ -1,1 +1,1 @@
-<img width="935" alt= "images" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xpand-it.com%2Fblog%2Fwhy-you-should-integrate-power-bi-and-customer-insights%2F&psig=AOvVaw23TCiVtgmj7ntOMVDGOk7W&ust=1721979219595000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD8gNHWwYcDFQAAAAAdAAAAABAE">
+
